@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Data files (if generated, not source)
+previous_data/
+final_car_data.*
+*.xls
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.rar
+*.tar
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
