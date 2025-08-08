@@ -1,0 +1,9 @@
+pandas
+selenium
+webdriver-manager
+bs4
+beautifulsoup4
+uvicorn
+fastapi
+openai
+python-dotenv
